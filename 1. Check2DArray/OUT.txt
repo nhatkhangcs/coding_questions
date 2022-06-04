@@ -1,0 +1,7 @@
+YES
+THE #1 STEP: 0 0 0 
+THE #2 STEP: 1 0 0 
+THE #3 STEP: 2 1 0 
+THE #4 STEP: 2 1 0 
+THE #5 STEP: 2 1 0 
+THE #6 STEP: 2 2 0 
